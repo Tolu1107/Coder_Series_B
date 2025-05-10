@@ -1,0 +1,25 @@
+<grandfather>
+
+  <father>
+    <son>
+    </son>
+    <daughter>
+    </daughter>
+  </father>
+</grandfather>
+
+<greatgrandfather>
+
+  <grandfather>
+
+    <father>
+      <son>
+      </son>
+      <daughter>
+      </daugther>
+    </father>
+
+  </grandfather>
+
+</greatgrandfather>
+
